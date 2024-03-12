@@ -1,0 +1,128 @@
+.login-classes {
+    padding: 50px;
+}
+
+button#bKash_button {
+    display: none;
+}
+
+.logforb button {
+    background-color: #F68821;
+    color: #fff;
+}
+button.lighte.bgdark.button {
+    height: 55px;
+    border-radius: 7px;
+	text-transform: inherit;
+}
+div#dig_login_va_otp {
+	background-color: #F68821;
+    color: #fff;
+    border-radius: 7px;
+	text-transform: inherit;
+	padding-top: 3px;
+}
+.dig_pgmdl_2 .button, .dig_pgmdl_2 .transupbutton {
+    height: 55px;
+}
+.dig_pgmdl_2 .minput input {
+    border: 1px solid #0000001a;
+}
+.dig_pgmdl_2 .minput input[type=text] {
+    border-radius: 7px;
+    min-height: 55px;
+}
+.dig-elem .signupbutton {
+    border: 4px solid #f68821;
+}
+.dig_pgmdl_2 .transupbutton {
+    border-radius: 7px;
+}
+
+
+
+
+.wd-single-brands.wd-style-shadow a {
+    display: inline-block;
+    color: #F68821;
+    padding: 5px 20px 5px 20px;
+    border-radius: 15px;
+    background: #FEF3E9;
+}
+
+.product-grid-item :is(.wd-product-cats,.wd-product-brands-links) a {
+    display: inline-block;
+    color: #F68821;
+    padding: 4px 10px 4px 10px;
+    border-radius: 15px;
+    background: #FEF3E9;
+}
+
+.wd-product-brands a {
+    display: inline-block;
+    background-color: #ffe8cb;
+    color: #ff5e00;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 15px;
+    padding: 5px 20px 5px 20px;
+}
+
+p.stock.wd-style-with-bg:is(.available-on-backorder,.in-stock) span {
+    background-color: #5ab500;
+    color: #FFFFFF;
+    border-radius: 15px;
+    padding: 6px 10px 6px 10px;
+}
+
+div.whb-23el0oazo6bj2kjn71r6 a {
+  pointer-events: none;
+}
+
+p.stock.wd-style-with-bg.out-of-stock span {
+    background-color: #ff0000;
+    color: #ffffff;
+    border-radius: 15px;
+}
+
+p.stock.wd-style-with-bg.in-stock span:before {
+	  display: none;
+    margin-inline-end: 5px;
+    content: "\f107";
+    font-family: "woodmart-font";
+}
+
+.woocommerce-message {
+    display: none;
+}
+
+@media (min-width: 1025px)
+.title-size-default {
+    padding: 60px 0;
+    display: none;
+}
+
+.wd-star-rating {
+    display: none;
+}
+
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart.add-to-cart-loop.added {
+    display: none;
+}
+
+.payment_box.payment_method_cod {
+    background-color: #ffeddd;
+}
+
+.woocommerce-thankyou-order-received {
+    margin-bottom: 30px;
+    padding: 3%;
+    width: 100%;
+    border: 0px dashed #7A9C59;
+    border-radius: var(--wd-brd-radius);
+    color: #7A9C59;
+    text-align: center;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 1.4;
+}
