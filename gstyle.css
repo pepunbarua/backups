@@ -1,0 +1,125 @@
+<style>
+/* global css  */
+.product-grid-item .added_to_cart {
+	display: block !important;
+    height: 38px !important;
+    background-color: #000 !important;
+    color: #fff !important;
+	font-size: 13px;
+	text-align: center;
+    padding: 10px;
+}
+
+
+	.wd-hover-fw-button .wd-quick-shop-2 table.variations {
+    display: inline-table;
+}
+input.minus {
+    border-radius: 3px 3px 3px 3px;
+}
+	input.plus {
+    border-radius: 3px 3px 3px 3px;
+}
+	.wd-add-btn.wd-add-btn-replace {
+    min-height: 42px;
+    max-height: 42px;
+    overflow: hidden;
+}
+	
+	
+a.button.btn-cart.wc-forward {
+    display: none;
+}
+	
+	.shopping-cart-widget-footer {
+    margin-top: auto;
+}
+	
+	.wd-scroll-content {
+    max-height: 80vh;
+}
+	
+
+	/* CSS for Caddy Start */
+.cc-cart-actions a.cc-button-primary {
+    background-color: #f68821;
+}
+
+.cc-cart-actions a.cc-button-primary:hover {
+    background-color: #f68821;
+}
+
+.cc_item_quantity_update {
+    background-color: #f68821;
+    color: #fff;
+}
+	.cc-nav li {
+    display: none !important;
+	}
+	.cc-nav li:first-child {
+		display: block !important;
+	}
+	.cc_sfl_btn {
+    display:none !important;
+	}
+	.cc-total-box .cc-subtotal-subtext {
+    font-size: 12px;
+    color: #928e8e;
+    display: none;
+    font-weight: 400;
+}
+	.cc-compass {
+			display: none;
+	}
+	.ccicon-x {
+    display: block;
+}
+	.ccicon-x:hover {
+    color: #f68821;
+}
+	
+		.wd-table-wrapper {
+    max-height: none !important;
+}
+	
+	
+/* CSS for Caddy Start */
+
+	
+	
+	
+/* 	end global css */
+	
+	
+	
+/* 	for mobiel device only */
+	@media only screen and (max-width: 600px) {
+		table.woocommerce-checkout-review-order-table thead {
+			display:none;
+		}
+		table.woocommerce-checkout-review-order-table tbody {
+			display:none;
+		}
+		tr:last-child {
+    background-color: #f6f6f6;
+		}
+		.cc-window {
+    	width: 75% !important;
+		}
+		#billing_phone {
+    display: block;
+}
+		.woocommerce-form-coupon-toggle {
+    display: block;
+}
+		.elementor-element.elementor-element-7475f13.elementor-widget.elementor-widget-jet-checkout-coupon-form {
+    margin-bottom: -20px;
+}
+		.wd-add-btn.wd-add-btn-replace {
+    min-height: 38px;
+    max-height: 38px;
+    overflow: hidden;
+}
+}
+/* 	end mobile device only */
+</style>
